@@ -26,7 +26,19 @@ const Akshay = {
 
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akshay5149&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay5149&theme=tokyonight" /> </p>
+💻 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel,netlify" />
+</p>
+
 ```
 
 ## 🎯 Current Focus
