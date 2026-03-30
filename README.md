@@ -23,6 +23,6 @@ const Akshay = {
 };
 ### 🚀 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,html,css,git" />
 </p>
