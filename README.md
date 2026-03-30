@@ -22,10 +22,6 @@ const Akshay = {
 ```
 
 🚀 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,html,css,git,github,tailwind,nextjs" /> </p>
-
-
-📊 GitHub Stats
 💻 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
@@ -38,8 +34,13 @@ const Akshay = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel,netlify" />
 </p>
-
 ```
+
+
+
+📊 GitHub Stats
+
+
 
 ## 🎯 Current Focus
 
