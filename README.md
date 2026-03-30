@@ -19,3 +19,13 @@ const Akshay = {
   currentlyExploring: ["Next.js", "React", "Data Engineering"],
   lookingToCollaborate: true
 };
+
+
+---
+
+## ⚡ Simplest safe version
+
+```md
+### 🚀 Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,html,css,git)
