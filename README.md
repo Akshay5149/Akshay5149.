@@ -1,5 +1,5 @@
 ## 💻 Web Developer
-<h5 align="center">Hi 👋, I'm Akshay</h5>
+<h2 align="center">Hi 👋, I'm Akshay</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Developer;MERN+Stack+Dev&center=true&width=500&height=45">
@@ -20,12 +20,5 @@ const Akshay = {
   lookingToCollaborate: true
 };
 
-
----
-
-## ⚡ Simplest safe version
-
-```md
-### 🚀 Tech Stack
-
-![Tech Stack](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,html,css,git)
+🚀 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,html,css,git,github,tailwind,nextjs" /> </p>
