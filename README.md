@@ -14,9 +14,8 @@ const Akshay = {
   location: "📍 Pune, India",
   role: "Full Stack Developer",
   focus: "Web Development & Data Engineering",
-  email: "yourmail@gmail.com",
+  email: "jadhavakshay1548@gmail.com",
   passion: "Creating seamless digital experiences",
   currentlyExploring: ["Next.js", "React", "Data Engineering"],
   lookingToCollaborate: true
-}; ```
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,html,css,git" /> </p>
+}; <p align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,html,css,git" /> </p> ```
