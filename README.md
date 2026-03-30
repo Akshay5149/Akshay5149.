@@ -52,3 +52,44 @@ const Akshay = {
     </tr>
   </table>
 </p>
+
+
+## 🤝 Let's Connect & Collaborate  
+
+<div align="center">
+
+<a href="YOUR_PORTFOLIO_LINK">
+  <img src="https://img.shields.io/badge/🌐 Portfolio-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="YOUR_LINKEDIN_LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="YOUR_GITHUB_LINK">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+💡 **"Code is like humor. When you have to explain it, it's bad."**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Open to exciting collaborations and opportunities!
+✨ *Let's build something amazing together* ✨  
+
+</div>
