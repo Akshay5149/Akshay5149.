@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Developer;MERN+Stack+Dev&center=true&width=500&height=45">
 </p>
-<hr>
 
 ---
 
@@ -23,7 +22,6 @@ const Akshay = {
 };
 ### 🚀 Tech Stack
 
-[<p align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,html,css,git" />
 </p>
-](https://skillicons.dev/icons?i=js,react,nodejs)
