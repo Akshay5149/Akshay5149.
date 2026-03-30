@@ -1,6 +1,8 @@
 # 👋 Hey there! I'm Akshay Jadhav
 
 ## 💻 Web Developer
+<h1 align="center">Hi 👋, I'm Pranav</h1>
+<h3 align="center">Web Developer</h3>
 
 ---
 
