@@ -19,4 +19,3 @@ const Akshay = {
   currentlyExploring: ["Next.js", "React", "Data Engineering"],
   lookingToCollaborate: true
 };
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,html,css,git" /> </p> ```
