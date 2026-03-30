@@ -36,7 +36,7 @@ const Akshay = {
     <tr>
       <td align="center" width="200">
         <img src="https://skillicons.dev/icons?i=nextjs" /><br/>
-        <b>Next.js</b><br/>
+        <b>Node.js</b><br/>
         <i>Full-stack React framework</i>
       </td>
       <td align="center" width="200">
