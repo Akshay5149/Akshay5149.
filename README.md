@@ -18,7 +18,7 @@ const Akshay = {
   passion: "Creating seamless digital experiences",
   currentlyExploring: ["Next.js", "React", "Data Engineering"],
   lookingToCollaborate: true
-};
+};```
 
 🚀 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,html,css,git,github,tailwind,nextjs" /> </p>
