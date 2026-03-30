@@ -1,7 +1,11 @@
-# 👋 Hey there! I'm Akshay Jadhav
 
-## 💻 Web Developer
 
+## 🎨 3. Pro Level Styling (Important)
+
+### 1. Center Text + Animation
+```md
+<h1 align="center">Hi 👋, I'm Akshay</h1>
+<h3 align="center">Web Developer</h3>
 ---
 
 ## 🚀 About Me
