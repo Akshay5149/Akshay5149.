@@ -1,7 +1,6 @@
-
-
 ## 💻 Web Developer
 <h5 align="center">Hi 👋, I'm Akshay</h5>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Developer;MERN+Stack+Dev&center=true&width=500&height=45">
 </p>
@@ -19,9 +18,5 @@ const Akshay = {
   passion: "Creating seamless digital experiences",
   currentlyExploring: ["Next.js", "React", "Data Engineering"],
   lookingToCollaborate: true
-};
-### 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,html,css,git" />
-</p>
+}; ```
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,html,css,git" /> </p> ```
