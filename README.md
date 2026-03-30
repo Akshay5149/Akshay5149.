@@ -28,3 +28,26 @@ const Akshay = {
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akshay5149&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay5149&theme=tokyonight" /> </p>
 ```
+## 🎯 Current Focus
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs" /><br/>
+        <b>Next.js</b><br/>
+        <i>Full-stack React framework</i>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" /><br/>
+        <b>React Ecosystem</b><br/>
+        <i>Modern UI development</i>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" /><br/>
+        <b>Data Engineering</b><br/>
+        <i>Exploring new horizons</i>
+      </td>
+    </tr>
+  </table>
+</p>
