@@ -39,7 +39,16 @@ const Akshay = {
 
 
 📊 GitHub Stats
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akshay5149&theme=tokyonight" />
+</p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akshay5149&theme=tokyonight" />
+</p>
 
 
 ## 🎯 Current Focus
