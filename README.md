@@ -18,11 +18,13 @@ const Akshay = {
   passion: "Creating seamless digital experiences",
   currentlyExploring: ["Next.js", "React", "Data Engineering"],
   lookingToCollaborate: true
-}; ```
+};
+```
 
 🚀 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,html,css,git,github,tailwind,nextjs" /> </p>
 
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akshay5149&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay5149&theme=tokyonight" /> </p> ```
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akshay5149&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay5149&theme=tokyonight" /> </p>
+```
